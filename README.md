@@ -65,7 +65,7 @@
           This project was coded by
           <a href="https://github.com/Prudie90" target="_blank" class="text-[#885df1] hover:underline">PrudieM</a> and is
           <a href="https://github.com/Prudie90/WeatherApp/edit/main/README.md" target="_blank" class="text-[#885df1] hover:underline">on GitHub</a> and
-          <a href="https://idyllic-begonia-f54022.netlify.app/" target="_blank" class="text-[#885df1] hover:underline">hosted on Netlify</a>
+          <a href="https://app.netlify.com/projects/idyllic-begonia-f54022/overview" target="_blank" class="text-[#885df1] hover:underline">hosted on Netlify</a>
         </p>
       </footer>
     </div>
