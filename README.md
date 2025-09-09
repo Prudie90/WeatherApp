@@ -63,9 +63,9 @@
       <footer class="border-t border-gray-100 pt-4 text-center text-sm text-gray-400">
         <p>
           This project was coded by
-          <a href="#" target="_blank" class="text-[#885df1] hover:underline">PrudieM</a> and is
-          <a href="#" target="_blank" class="text-[#885df1] hover:underline">on GitHub</a> and
-          <a href="#" target="_blank" class="text-[#885df1] hover:underline">hosted on Netlify</a>
+          <a href="https://github.com/Prudie90" target="_blank" class="text-[#885df1] hover:underline">PrudieM</a> and is
+          <a href="https://github.com/Prudie90/WeatherApp/edit/main/README.md" target="_blank" class="text-[#885df1] hover:underline">on GitHub</a> and
+          <a href="https://heroic-profiterole-e5ccd5.netlify.app/" target="_blank" class="text-[#885df1] hover:underline">hosted on Netlify</a>
         </p>
       </footer>
     </div>
